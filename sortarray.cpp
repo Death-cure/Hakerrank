@@ -11,6 +11,8 @@ public:
   };
 
 
+
+
   sort(ar,ar+n);
   //for(int a=0;a<n;a++){
   //cout<<ar[a];
