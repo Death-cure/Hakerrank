@@ -17,7 +17,7 @@ using namespace std;
      long int mangosum =0;
      for( long int p=0;p<m;p++){     // for mango on sam's house
      int x=s-a;
-     if(ar1[p]>=x&&ar1[p]<=t){
+     if(ar1[p]>=x&&ar1[p]<=t-a){
      mangosum=mangosum+1;
      };
 
