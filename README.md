@@ -4,4 +4,4 @@ IN C++
 
 see ya in another lifes
 
-s
+I am the alpha.
